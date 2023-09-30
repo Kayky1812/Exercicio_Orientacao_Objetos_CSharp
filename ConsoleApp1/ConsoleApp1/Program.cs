@@ -19,6 +19,8 @@ Crie um novo objeto Noia e adicione-o à lista de pessoas. Verifique como a clas
 Este exercício ajudará a praticar os conceitos apresentados no código, como herança, encapsulamento, polimorfismo e tratamento de exceções em C#. Certifique-se de compreender como esses 
 conceitos funcionam à medida que trabalha no exercício.
 
+andre é corno 
+
 */
 
 
